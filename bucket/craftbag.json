@@ -1,12 +1,12 @@
 {
-    "version": "0.2.2",
+    "version": "0.2.3",
     "description": "Discover and load Agent Skills for CLI and MCP hosts",
     "homepage": "https://github.com/craftbag/craftbag",
     "license": "MIT|Apache-2.0",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/craftbag/craftbag/releases/download/v0.2.2/craftbag-x86_64-pc-windows-msvc.zip",
-            "hash": "9384305436c01f5b9dab96f0c9ef9867ff050900cf1250a6363bda29aa4d8e6f"
+            "url": "https://github.com/craftbag/craftbag/releases/download/v0.2.3/craftbag-x86_64-pc-windows-msvc.zip",
+            "hash": "3fb24686ce6570242e844c6e9dec28a1b2d3847ad3b3dff4a13126ab3111052c"
         }
     },
     "bin": [
